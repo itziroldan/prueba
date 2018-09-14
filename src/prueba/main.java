@@ -6,6 +6,8 @@ public class main {
 		// TODO Auto-generated method stub
 		System.out.println("Hola mundo");
 		String a = "Adios mundo";
+		
+		System.out.println(a + ".");
 	}
 
 }
